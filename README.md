@@ -1,2 +1,1 @@
-# DHCP
-dhcp lab 
+A DHCP LAN with DHCP Relay Agent configuration allows a client on one network (typically a different subnet) to request an IP address from a DHCP server that may not be on the same local network. The DHCP Relay Agent acts as an intermediary to forward DHCP messages between clients and servers across different networks.
